@@ -1,0 +1,14 @@
+/Users/LeonardoCabbau/Desktop/ASP NET CORE/DatingApp/DatingApi/bin/Debug/netcoreapp2.1/DatingApi.deps.json
+/Users/LeonardoCabbau/Desktop/ASP NET CORE/DatingApp/DatingApi/bin/Debug/netcoreapp2.1/DatingApi.runtimeconfig.json
+/Users/LeonardoCabbau/Desktop/ASP NET CORE/DatingApp/DatingApi/bin/Debug/netcoreapp2.1/DatingApi.runtimeconfig.dev.json
+/Users/LeonardoCabbau/Desktop/ASP NET CORE/DatingApp/DatingApi/bin/Debug/netcoreapp2.1/DatingApi.dll
+/Users/LeonardoCabbau/Desktop/ASP NET CORE/DatingApp/DatingApi/bin/Debug/netcoreapp2.1/DatingApi.pdb
+/Users/LeonardoCabbau/Desktop/ASP NET CORE/DatingApp/DatingApi/obj/Debug/netcoreapp2.1/DatingApi.csprojAssemblyReference.cache
+/Users/LeonardoCabbau/Desktop/ASP NET CORE/DatingApp/DatingApi/obj/Debug/netcoreapp2.1/DatingApi.csproj.CoreCompileInputs.cache
+/Users/LeonardoCabbau/Desktop/ASP NET CORE/DatingApp/DatingApi/obj/Debug/netcoreapp2.1/DatingApi.RazorAssemblyInfo.cache
+/Users/LeonardoCabbau/Desktop/ASP NET CORE/DatingApp/DatingApi/obj/Debug/netcoreapp2.1/DatingApi.RazorAssemblyInfo.cs
+/Users/LeonardoCabbau/Desktop/ASP NET CORE/DatingApp/DatingApi/obj/Debug/netcoreapp2.1/DatingApi.AssemblyInfoInputs.cache
+/Users/LeonardoCabbau/Desktop/ASP NET CORE/DatingApp/DatingApi/obj/Debug/netcoreapp2.1/DatingApi.AssemblyInfo.cs
+/Users/LeonardoCabbau/Desktop/ASP NET CORE/DatingApp/DatingApi/obj/Debug/netcoreapp2.1/DatingApi.RazorTargetAssemblyInfo.cache
+/Users/LeonardoCabbau/Desktop/ASP NET CORE/DatingApp/DatingApi/obj/Debug/netcoreapp2.1/DatingApi.dll
+/Users/LeonardoCabbau/Desktop/ASP NET CORE/DatingApp/DatingApi/obj/Debug/netcoreapp2.1/DatingApi.pdb
